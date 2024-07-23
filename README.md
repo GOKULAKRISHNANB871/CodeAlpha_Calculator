@@ -28,7 +28,10 @@ Files:
 
 - calci.html: The main HTML file for the calculator layout
 - styles.css: The CSS file for styling and layout
-- script.js: The JavaScript file for functionality and calculations
+- index.js: The JavaScript file for functionality and calculations
+output:
+![image](https://github.com/user-attachments/assets/0cdd63fc-7296-4f74-a69d-12fb664c9097)
+
 
 Author:
 
